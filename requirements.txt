@@ -1,0 +1,4 @@
+barcode_generator==0.1rc15
+fastapi==0.104.1
+qrcode==7.4.2
+uvicorn==0.24.0
